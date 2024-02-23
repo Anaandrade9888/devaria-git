@@ -1,0 +1,1 @@
+repositorio dos escripts de git do modulo de banco de dados da devaria
